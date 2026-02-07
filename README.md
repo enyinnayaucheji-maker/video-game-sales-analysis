@@ -9,6 +9,7 @@ End-to-end analytics project using SQL, BigQuery, and Tableau
 ## Workflow
 1. Data cleaning
 2. Analysis queries
+3. Dashboard visualization
 
 ## Files
 - sql/01_cleaning.sql
